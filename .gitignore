@@ -1,0 +1,10 @@
+# Python venv e caches
+venv/
+__pycache__/
+*.pyc
+
+# Artefatos do Robot
+output.xml
+report.html
+log.html
+results/
